@@ -1,0 +1,21 @@
+body,html{
+     background-color: burlywood;
+}
+.display{
+     width: 100%;
+     height: 400px;
+     max-width: 500px;
+     margin: 100px auto;
+     font-size: 2em;
+     text-align: center;
+     padding-top: 20%;
+     color: crimson;
+}
+.date,.h,.m,.s,.ap{
+     border-radius: 9px;
+     box-shadow: 0.1em 0.1em 0em 0em brown inset;
+     display: inline;
+     padding: 5px;
+     background-color: cornsilk;
+     margin-left: 5px;
+}
